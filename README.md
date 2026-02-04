@@ -130,3 +130,15 @@ This document tracks my daily learning progress, tasks completed, upcoming plans
 - Internet connectivity issues
 
 ---
+## Date: 04-02-2026
+### Today
+Learned about the Linux kernel and shell, including different types of shells.
+Covered basic shell scripting concepts such as I/O operations, loops, conditional statements (if–else), do‑while, and case statements.
+Brainstormed solutions for cron job–related problems.
+
+### Tomorrow (04-02-2026)
+Continue with Linux modules and further brainstorming and solving cron job and shell scripting–related problems.
+
+### Blockers
+- Internet connectivity issues
+----
