@@ -154,3 +154,14 @@ Continue with Linux modules and further brainstorming and solving cron job and s
 ### Blockers
 - Internet connectivity issues
 ----
+## Date: 05-02-2026
+
+### Today
+- Brainstormed the given shell scripting problem and identified effective solution approaches.  
+- Initialized the networking module and learned about the client–server model and basic networking concepts such as MAC address, OSI layers, subnet masks, and network configuration files including network switch and hostname.
+
+### Tomorrow (06-02-2026)
+- Continue with Linux modules and perform hands-on practicals to gain a better understanding.
+
+### Blockers
+- Internet connectivity issues
