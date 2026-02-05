@@ -11,7 +11,7 @@ https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_
 ## Linux
 
 ### Practice Folder
-
+https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_simformsolutions_com/IgBTol3hCeF7TpTeKUU2Fgj-Ad4t_-HnDEphnMPof1ouQls?e=SgAawa
     
 
 ---
