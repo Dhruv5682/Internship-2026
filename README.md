@@ -1,6 +1,18 @@
 # Daily Progress Update
 
 This document tracks my daily learning progress, tasks completed, upcoming plans, and any blockers encountered during training.
+-----
+
+## Git & GitHub
+
+### Practice Folder
+https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_simformsolutions_com/IgDxIiRwKUY3TLfjOGzjzCjIARwl8GZ3sT66nTa9Yent6cM?e=B88ZY0
+
+## Linux
+
+### Practice Folder
+
+    
 
 ---
 
