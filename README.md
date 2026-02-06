@@ -165,3 +165,16 @@ Continue with Linux modules and further brainstorming and solving cron job and s
 
 ### Blockers
 - Internet connectivity issues
+----
+## Date: 06-02-2026
+
+### Today
+- Installed VirtualBox and completed Virtual Machine (VM) setup, followed by brainstorming shell scripting problems and solution approaches.
+Learned Linux networking fundamentals, including NIC concepts, settings, and configurations, along with commands like ip addr, ifup, and ifdown.
+Explored advanced networking topics such as ethtool usage, NIC bonding, and reinforced understanding through basic Linux networking Youtube tutorials.
+
+### Tomorrow (07-02-2026)
+- Continue with Linux modules
+
+### Blockers
+- Internet connectivity issues
