@@ -178,3 +178,18 @@ Explored advanced networking topics such as ethtool usage, NIC bonding, and rein
 
 ### Blockers
 - Internet connectivity issues
+
+- ----
+## Date: 09-02-2026
+
+### Today
+- Learned and practiced network utilities such as `nmtui`, `nmcli`, `nm-connection-editor`, and GNOME network settings.  
+- Studied SSH and Telnet along with their configurations.  
+- Learned `netstat` and `ss` commands and understood their differences.  
+- Practiced networking tools including `curl`, `ping`, FTP, SCP, and `rsync`.
+
+### Tomorrow (10-02-2026)
+- Continue with Linux and networking modules with more hands-on practice to strengthen understanding.
+
+### Blockers
+- Internet connectivity issues
