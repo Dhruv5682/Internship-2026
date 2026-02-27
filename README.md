@@ -12,7 +12,11 @@ https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_
 
 ### Practice Folder
 https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_simformsolutions_com/IgBTol3hCeF7TpTeKUU2Fgj-Ad4t_-HnDEphnMPof1ouQls?e=SgAawa
-    
+
+## Server
+
+### Practice Folder
+https://simformsolutionspvtltd-my.sharepoint.com/:f:/g/personal/dhruv_sukhadiya_simformsolutions_com/IgAHDliBksb9TbghyJC1e_JkAY9C9Rv8UiL-QlAC4Nh9ILE?e=reHvJg
 
 ---
 
