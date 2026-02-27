@@ -1,4 +1,4 @@
-# 🚀 Daily Progress Journal — Dhruv Sukhadiya
+# 🚀 Daily Progress Journal
 
 A clean, structured, and visually engaging timeline of my technical learning journey.
 
