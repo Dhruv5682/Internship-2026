@@ -197,3 +197,217 @@ Explored advanced networking topics such as ethtool usage, NIC bonding, and rein
 
 ### Blockers
 - Internet connectivity issues
+
+## Date: 10-02-2026
+
+### Today
+- Performed a two‑way sync problem statement and identified possible solutions; also learned how to use `wget`.
+- Understood the concepts of system update vs upgrade and their differences.
+- Studied package managers: yum, dnf, rpm, and apt‑get.
+- Learned rollback methods for updates and patches.
+
+### Tomorrow (11-02-2026)
+- Continue learning Linux and networking topics with more hands‑on practice.
+
+### Blockers
+- Unstable internet connectivity
+
+---
+
+## Date: 11-02-2026
+
+### Today
+- Learned nslookup and dig for DNS troubleshooting.
+- Studied NTP and chronyd for time synchronization.
+- Explored timedatectl for managing system date and time.
+- Gained knowledge about mail servers: Postfix, Sendmail, Exim, Qmail.
+- Studied details about Postfix and s-nail.
+- Learned basics of web servers, starting with Apache.
+
+### Tomorrow (12-02-2026)
+- Continue learning Linux and networking modules.
+
+### Blockers
+- Unstable internet connectivity
+
+---
+
+## Date: 12-02-2026
+
+### Today
+- Studied Apache and Nginx web servers.
+- Explored Cockpit and learned Squid proxy server basics.
+- Understood rsyslog.
+- Studied Nagios monitoring server and its architecture.
+- Covered OS Hardening techniques.
+- Explored OpenLDAP and Traceroute.
+- Studied Firewall concepts (firewalld/iptables).
+
+### Tomorrow (13-02-2026)
+- Continue Linux and networking topics.
+
+### Blockers
+- Unstable internet connectivity
+
+---
+
+## Date: 13-02-2026
+
+### Today
+- Learned firewall concepts & configuration using iptables and firewalld.
+- Performed system performance tuning using nice, renice, and tuned.
+- Studied container technologies: Docker and Podman.
+- Practiced installation/configuration of OpenVPN and Ansible.
+- Gained overview of DHCP server setup.
+
+### Plan for Monday (16-02-2026)
+- Complete remaining Linux topics in OS module.
+
+### Blockers
+- None
+
+---
+
+## Date: 16-02-2026
+
+### Today
+- Covered core Linux OS topics: run levels, boot process, systemd-analyze, storage types (Local/NAS/DAS/SAN), disk partitioning, XFS filesystem setup, mounting, /etc/fstab, LVM, RAID basics.
+- Learned file sharing & web services: NFS and introduction to LAMP stack.
+- Practiced system backup techniques using dd.
+
+### Tomorrow (17-02-2026)
+- Begin Windows Administration and Linux real‑world scenarios.
+
+### Blockers
+- None
+
+---
+
+## Date: 17-02-2026
+
+### Today
+- Installed & configured Windows on VM.
+- Studied Active Directory (AD), Domain Controllers (DC), and Windows Firewall.
+- Learned AD architecture and explored Azure services used for hybrid connectivity.
+
+### Tomorrow (18-02-2026)
+- Continue learning Windows Administration.
+
+### Blockers
+- Unstable internet connectivity
+
+---
+
+## Date: 18-02-2026
+
+### Today
+- Worked on Windows Server deployment procedures and PowerShell basics.
+- Understood AD DS architecture, domain controllers, and FSMO roles.
+- Practiced user, group, and OU management along with UGMC.
+- Explored Group Managed Service Accounts (gMSA).
+
+### Tomorrow (19-02-2026)
+- Continue learning Windows Administration.
+
+### Blockers
+- None
+
+---
+
+## Date: 19-02-2026
+
+### Today
+- Learned DNS basics: zones, forwarders, conditional forwarding.
+- Studied DHCP 4‑step process, Domain Trust types, AD Sites & Replication.
+- Understood GPO processing order & inheritance.
+- Learned file share access management.
+
+### Tomorrow (20-02-2026)
+- Continue learning Windows Administration.
+
+### Blockers
+- None
+
+---
+
+## Date: 20-02-2026
+
+### Today
+- Learned core Windows file services: BranchCache, DFS, FSRM, NTFS & Share permissions.
+- Explored network & remote access components: RAS, NPS, WAP, cron jobs, task manager/processes.
+- Studied system & security fundamentals: Hyper‑V, Windows Defender, security settings, Windows Update.
+
+### Plan for Monday (23‑02‑2026)
+- Start Server modules from LMS.
+
+### Blockers
+- None
+
+---
+
+## Date: 23-02-2026
+
+### Today
+- Learned basics of NGINX and compared it with Apache HTTP Server.
+- Completed installation & configuration.
+- Worked with Virtual Hosts, location blocks, variables, rewrites, try_files.
+- Explored named locations and logging.
+- Understood directive types and config inheritance.
+
+### Tomorrow (24-02-2026)
+- Continue with NGINX Module.
+
+### Blockers
+- None
+
+---
+
+## Date: 24-02-2026
+
+### Today
+- Attempted OS quiz on LMS.
+- Practiced PHP concepts including processing flow, worker processes, buffers, timeouts, dynamic modules.
+- Explored NGINX performance optimizations: headers, expires rules, gzip compression.
+- Learned FastCGI caching, HTTP/2, Server Push.
+
+### Tomorrow (25-02-2026)
+- Continue with NGINX Module.
+
+### Blockers
+- None
+
+---
+
+## Date: 25-02-2026
+
+### Today
+- Learned HTTPS (SSL), Let’s Encrypt, Basic Auth, Nginx hardening.
+- Understood Rate Limiting, Reverse Proxy, Load Balancing.
+- Completed Task 1:
+  - Hosted static “Powered by Nginx” page.
+  - Configured `/trainee` alias.
+  - Created custom private domain www.dhruv.com.
+
+### Tomorrow (26-02-2026)
+- Continue further tasks.
+- Start Apache server.
+
+### Blockers
+- None
+
+---
+
+## Date: 26-02-2026
+
+### Today
+- Completed Task 2: Nginx Backend Service Reverse Proxy.
+- Installed & configured Apache server.
+- Practiced hosting websites, configuring virtual hosts, domains, SSL, custom pages.
+
+### Tomorrow (27-02-2026)
+- Complete Apache server.
+- Start with IIS server.
+
+### Blockers
+- None
+``
