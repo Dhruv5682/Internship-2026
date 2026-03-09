@@ -1,8 +1,27 @@
 # 🚀 Daily Progress Journal
 
-A clean, structured, and visually engaging timeline of my technical learning journey.
+# 📄 Git & Github
 
----
+## 🔗 Screenshot Link (OneDrive)
+
+👉https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Git%20Hands%20On?csf=1&web=1&e=99ISug
+
+# 📄 Operating System Screenshot Documentation
+
+## 📘 Overview
+This README provides a link to the operating system screenshot stored on OneDrive.  
+It helps document and reference the OS screenshot within this GitHub repository.
+
+
+## 🔗 Screenshot Link (OneDrive)
+
+👉https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Linux?csf=1&web=1&e=OO1jh3
+
+# 📄 Servers
+
+## 🔗 Screenshot Link (OneDrive)
+
+👉https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Servers?csf=1&web=1&e=okPJo1
 
 ## 📘 Progress Timeline
 
