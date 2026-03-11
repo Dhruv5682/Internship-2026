@@ -23,6 +23,14 @@ It helps document and reference the OS screenshot within this GitHub repository.
 
 👉https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Servers?csf=1&web=1&e=okPJo1
 
+# 📄 DataCenter
+
+👉[https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Git%20Hands%20On?csf=1&web=1&e=99ISug](https://simformsolutionspvtltd-my.sharepoint.com/:w:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Datacenter.docx?d=w9d577a9757c14348bf8a71e0d8afc32a&csf=1&web=1&e=QDtXzq)
+
+# 📄 Cloud Computing
+
+👉[https://simformsolutionspvtltd-my.sharepoint.com/:f:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Training/Git%20Hands%20On?csf=1&web=1&e=99ISug](https://simformsolutionspvtltd-my.sharepoint.com/:w:/r/personal/dhruv_sukhadiya_simformsolutions_com/Documents/Cloud%20Computing.docx?d=w8306bc19930345f7b820a66bcd7b5fef&csf=1&web=1&e=8H9Cgu)
+
 ## 📘 Progress Timeline
 
 ---
